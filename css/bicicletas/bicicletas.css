@@ -1,5 +1,5 @@
 .bicicletas-bg {
-  background-image: linear-gradient(to right, var(--cor-0) 30%, var(--cor-11)0%);
+  background-image: linear-gradient(to right, var(--cor-0) 20%, var(--cor-11)0%);
 }
 
 .bicicletas {
@@ -83,7 +83,7 @@
   }
 
   .bicicletas-bg {
-    background-image: linear-gradient(var(--cor-0) 30%, var(--cor-11)0%); /* TIRAR DEPOIS */
+    background-image: linear-gradient(var(--cor-0) 10%, var(--cor-11)0%); /* TIRAR DEPOIS */
   }
 }
 
