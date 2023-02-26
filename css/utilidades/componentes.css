@@ -80,14 +80,16 @@
 }
 
 
-
-
 /* TÍTULO INTERNO */
 
 .titulo-bg {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: var(--cor-11);
+}
+
+.titulo {
+  background: url(../../img/dec/top-right.svg) no-repeat top right 20px;
 }
 
 .titulo p {
