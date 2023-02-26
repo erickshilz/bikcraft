@@ -26,22 +26,3 @@ img {
 img[src$=".jpeg"] {
     border-radius: 4px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-address {
-    font-style: normal;
-}
