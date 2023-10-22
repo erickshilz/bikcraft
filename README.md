@@ -18,8 +18,5 @@
 
 <hr/>
 
-<ul>
-  <li><a href="titulo">Titulo do Projeto<a/></li>
-  <li><a href="badges">Badges<a/></li>
-  <li><a href="descricao">Descrição do Projeto<a/></li>
-</ul>
+* [Titulo do Projeto](#titulo)
+* [Badges](#badges)
