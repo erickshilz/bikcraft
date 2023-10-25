@@ -19,12 +19,14 @@
 <!-- ÍNDICE -->
 <h2 id="indice">📎 Índice</h2>
 
-* [Titulo do Projeto](#titulo)
-* [Badges](#badges)
-* [Índice](#indice)
-* [Descrição do Projeto](#descricao)
-* [Status do Projeto](#status)
-* [Tecnologias](#tecno)
+<ul>
+  <li><a href="#titulo">Título do Projeto</a></li>
+  <li><a href="#badges">Badges</a></li>
+  <li><a href="#indice">Índice</a></li>
+  <li><a href="#descricao">Descrição Projeto</a></li>
+  <li><a href="#status">Status do Projeto</a></li>
+  <li><a href="#tecno">Tecnologias</a></li>
+</ul>
 
 <!-- AS DUAS DEVERIAM VIR EM CIMA DAS TECNOLOGIAS -->
 <!-- * [Funcionalidades e Demonstração](#func-e-demo) -->
