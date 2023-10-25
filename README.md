@@ -1,6 +1,6 @@
-<h1 id="titulo" align="center"><img src="https://github.com/erickshilz/bikcraft/blob/main/img/bikcraft.svg?short_path=eccf60a" /></h1>
+<h1 align="center"><img src="https://github.com/erickshilz/bikcraft/blob/main/img/bikcraft.svg?short_path=eccf60a" /></h1>
 
-<p align="center" id="badges">
+<p align="center">
   <!-- STATUS DO PROJETO -->
   <img alt="STATUS - COMPLETADO" loading="lazy" src="https://img.shields.io/badge/STATUS-COMPLETADO-GREEN?style=for-the-badge" />
 
@@ -17,11 +17,11 @@
 </p>
 
 <!-- ÍNDICE -->
-<h2 id="indice">📎 Índice</h2>
+## 📎 Índice
 
 <ul>
-  <li><a href="#titulo">Título do Projeto</a></li>
-  <li><a href="#badges">Badges</a></li>
+  <li>Título do Projeto</li>
+  <li>Badges</li>
   <li><a href="#indice">Índice</a></li>
   <li><a href="#descricao">Descrição Projeto</a></li>
   <li><a href="#status">Status do Projeto</a></li>
@@ -42,18 +42,18 @@ OPÇÕES ADICIONAIS
 -->
 
 <!-- DESCRIÇÃO -->
-<h2 id="descricao">📄 Descrição</h2>
+## 📄 Descrição
 
 <p>O projeto <em>bikcraft</em> foi desenvolvido no curso de <a href="https://www.origamid.com/curso/html-e-css-para-iniciantes/" target="_blank">HTML e CSS para iniciantes<a/>, da <a href="https://www.origamid.com" target="_blank">Origamid<a/>. É o projeto final do curso, uma loja online focada na venda de bicicletas artesanais, feito inteiramente com HTML, CSS e JavaScript.</p>
 
 <!-- STATUS DO PROJETO -->
-<h2 id="status">🔍 Status do Projeto</h2>
+## 🔍 Status do Projeto
 
 ✅ Projeto Concluido ✅
 
 
 <!-- TECNOLOGIAS UTILIZADAS -->
-<h2 id="tecno">🖥️ Tecnologias</h2>
+## 🖥️ Tecnologias
 
 * `HTML`
 * `CSS`
